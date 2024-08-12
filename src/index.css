@@ -43,18 +43,18 @@ header input {
   width: 100%;
 }
 
-header button {
+button {
   border-radius: 14px;
   background: transparent;
   transition-duration: 200ms;
   cursor: pointer;
 }
 
-header button:hover {
+button:hover {
   opacity: 0.7;
 }
 
-header button,
+button,
 header input {
   padding: 14px 18px;
   border: none;
